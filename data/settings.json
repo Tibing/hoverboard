@@ -1,21 +1,21 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
+    "name": "Angular Belarus",
+    "twitter": "angularbelarus",
     "blog": "https://medium.com/gdg-lviv",
     "url": "http://lviv.gdg.org.ua/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2019-10-22T19:00:00+03:00",
+  "endDate": "2019-10-22T21:00:00+03:00",
   "webapp": {
-    "shortName": "DevFest",
-    "themeColor": "#673AB7",
-    "backgroundColor": "#673AB7"
+    "shortName": "AngularBelarus",
+    "themeColor": "#3366FF",
+    "backgroundColor": "#3366FF"
   },
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "AngularBelarus",
   "disabledSchedule": false,
   "navigation": [
     {
@@ -46,9 +46,9 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "Be a hero. Join Angular Belarus!",
       "background": {
-        "color": "#673ab7",
+        "color": "#3366FF",
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
@@ -148,7 +148,7 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/angularbelarus/"
       },
       {
         "name": "facebook",
@@ -156,7 +156,7 @@
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "http://twitter.com/angularbelarus"
       },
       {
         "name": "instagram",
@@ -178,7 +178,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "angularbelarus@gmail.com",
   "signInProviders": {
     "providersData": [
       {
