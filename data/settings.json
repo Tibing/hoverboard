@@ -29,9 +29,14 @@
       "label": "Speakers"
     },
     {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
+      "route": "events",
+      "permalink": "/events/",
+      "label": "Events"
+    },
+    {
+      "route": "apply-to-speak",
+      "permalink": "/apply-to-speak/",
+      "label": "Apply to Speak"
     },
     {
       "route": "team",
@@ -49,7 +54,7 @@
       "description": "Be a hero. Join Angular Belarus!",
       "background": {
         "color": "#3366FF",
-        "image": "/images/backgrounds/home.jpg"
+        "image": "/images/backgrounds/home.png"
       },
       "fontColor": "#FFF"
     },
@@ -78,9 +83,17 @@
       },
       "fontColor": "#424242"
     },
-    "schedule": {
-      "title": "Schedule",
-      "metaDescription": "Choose your sessions to visit",
+    "events": {
+      "title": "Events",
+      "metaDescription": "Here is the events page",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "applyToSpeak": {
+      "title": "Apply to Speak",
+      "metaDescription": "Here is the apply to speak page",
       "background": {
         "color": "#fff"
       },
